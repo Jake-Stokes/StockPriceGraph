@@ -9,7 +9,7 @@ plt.style.use('fivethirtyeight')
 fig = plt.figure()
 
 # create a 1 dimensional subplot as an animaiton canvas
-ax1 = plt.subplot(1,1,1)
+ax1 = fig.add_subplot(1,1,1)
 
 def animate(i):
     # open the data
