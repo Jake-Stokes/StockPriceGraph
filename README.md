@@ -1,4 +1,4 @@
-# THIS IS FOR EXPERIMENTING PURPOSES
+## THIS IS FOR EXPERIMENTING PURPOSES
 # StockPriceGraph
 This project will have a live updating graph of a stocks price through a given timeframe.
 
